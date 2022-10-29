@@ -1,4 +1,3 @@
-console.log('This is tut 11');
 let a = window.document;     // window is predefined global object so no need to type it every time.
 
 // Window Object Methods:-
