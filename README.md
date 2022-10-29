@@ -3,6 +3,6 @@
 ------ CONTENT ------
 * JavaScript Basics
 
-Will upload other concept soon....
+Will upload other content soon....
 
 Note :- To try every concept please change the source file accordingly.
