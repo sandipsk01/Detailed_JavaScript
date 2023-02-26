@@ -3,7 +3,7 @@
 ------ CONTENT ------
 * JavaScript Basics
 * DOM
-
+* Important Concepts like Hoisting, Callback function, etc.
 
 Will upload other content soon..... 
 
