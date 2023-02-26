@@ -2,6 +2,8 @@
 
 ------ CONTENT ------
 * JavaScript Basics
+* DOM
+
 
 Will upload other content soon..... 
 
